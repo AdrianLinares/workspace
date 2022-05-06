@@ -8,7 +8,11 @@ body { /* Estilo del body*/
     border-style: solid;
     border-width: 8px;
     border-color: #faa;
-    border-left: 6px solid #afa;
-    border-right: 6px solid #afa;
+    border-left: 8px solid #afa;
+    border-right: 8px solid #afa;
     background-color: #aaf;
+    border-radius: 8px;
+    height: 100px;
+    width: 100px;
+    color: #eee;
 }
