@@ -1,0 +1,20 @@
+body { /* Estilo del body*/
+    background-color: #eee;
+}
+
+span {
+    display: block;
+}
+
+#invisible {
+    display: none;
+}
+
+p {
+    max-width: 350px;
+    background-color: lightblue;
+    margin: 0 auto;
+    position: relative; /* Usar fixed un elemento fijo */
+    right: 15px;
+    top: 0px;    
+}

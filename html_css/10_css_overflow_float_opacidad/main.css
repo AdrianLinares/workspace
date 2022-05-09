@@ -1,0 +1,21 @@
+body { /* Estilo del body*/
+    background-color: #eee;
+}
+
+#over {
+    width: 100px;
+    height: 100px;
+    overflow: auto;
+}
+
+img {
+    float: right;
+}
+
+img:hover {
+    opacity: 0.5;
+}
+
+div p {
+    color: red;
+}

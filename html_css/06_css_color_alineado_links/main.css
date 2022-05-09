@@ -1,0 +1,48 @@
+body { /* Estilo del body*/
+    background-color: #eee;
+}
+
+p {
+    color: #222fff;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 1.2em;
+    font-weight: bolder;
+    text-align: justify;
+    text-indent: 30px;
+    line-height: 1.7;
+    word-spacing: 10px;
+    text-shadow: 6px 5px 3px rgba(0, 0, 0, 0.5);
+}
+a {
+    color: blue;
+    background-color: lightgrey;
+    border: solid 1px black;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 4px;
+}
+
+a:link {
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: purple;
+    text-decoration: underline;
+    background-color: gainsboro;
+    border: purple solid 1px;
+}
+
+a:active {
+    color: red;
+    text-decoration: underline;
+    background-color: grey;
+
+}
+
