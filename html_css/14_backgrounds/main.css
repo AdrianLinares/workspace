@@ -1,0 +1,17 @@
+body { /* Estilo del body*/
+    background-color: #eee;
+}
+
+.fondo {
+    /* height: 400px;
+    background: white url("https://placekitten.com/200/300") no-repeat left top fixed;
+    background-size: cover;
+    /* background-color: white;
+    background-image: url("https://placekitten.com/200/300");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+    background-size: cover; */
+
+    background-image: linear-gradient(to right, #4CAF50, #F44336, #2196F3, #FFC107);
+}
